@@ -1,0 +1,47 @@
+
+
+.fancy { color: coral;
+    background-color: rgb(92, 101, 117);
+    border-radius: 2cm; 
+    text-align: center;
+    text-shadow: darkblue;
+    font-family:monospace;
+    font-size: 50px;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 1cm;
+  }
+ .recipes {
+    background-color: lightskyblue;
+    color: grey;
+    border-radius: 1cm;
+    align-items: center;
+    background-position-y: 5cm;
+   
+}
+  .btn {
+    border: 2px solid black;
+    background-color: rgb(235, 187, 224);
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 2cm;
+  }
+
+
+
+.ingrediants {
+    color: grey;
+    background-color: lavender;
+   
+}
+.steps {
+    color: darkgreen;
+    background-color: lightpink;
+}
